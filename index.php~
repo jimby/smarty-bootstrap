@@ -27,7 +27,7 @@ $smarty->assign('Contacts',
     	'shipstate' =>'Calif. ',
     	'shipzip'   =>'93111'));
          
-$smarty->display('indexSB.tpl');
+$smarty->display('index.tpl');
 
 ?>
 
